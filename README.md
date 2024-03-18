@@ -33,7 +33,9 @@ Welcome to the Netflix Shows and Movies Analysis Dashboard developed using Power
 
 - To use the dashboard, you need to have Microsoft Power BI Desktop installed on your computer. You can download it from the official Microsoft website.
 
-- For online access and sharing, you'll need a Power BI Pro license to publish the dashboard to the Power BI service.
+Dashboard Screenshot
+![image](https://github.com/FATHOM-HUNTER/NetflixAnalysisDashboard/assets/88205680/feb160cf-d095-405c-9428-0d32ecfeaca3)
+
 
 **Feedback and Support:**
 
